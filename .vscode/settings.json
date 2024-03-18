@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Barky2024/test_"
+    ]
+}
